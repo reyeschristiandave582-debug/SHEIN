@@ -3,7 +3,7 @@
 import React from 'react';
 import { Gift, Sparkles } from 'lucide-react';
 
-const CRUMBL_URL = "https://giftclick.org/aff_c?offer_id=163&aff_id=183864&source=Sephora";
+const CRUMBL_URL = "https://giftclick.org/aff_c?offer_id=163&aff_id=183864&source=Shein";
 
 const HeroBranding = () => {
   return (
@@ -62,7 +62,7 @@ const HeroBranding = () => {
         <div className="relative">
             <h1 className="text-[22px] md:text-[28px] font-extrabold leading-tight tracking-tight flex items-center justify-center gap-x-2 flex-wrap font-poppins">
             <span className="text-[#000001]">Unlock</span>
-            <span className="text-[#000001]">Sephora</span>
+            <span className="text-[#000001]">Shein</span>
             <div className="flex items-center -ml-1">
               <Gift className="w-6.0 h-6.0 text-[#000001] fill-transparent" />
             </div>
