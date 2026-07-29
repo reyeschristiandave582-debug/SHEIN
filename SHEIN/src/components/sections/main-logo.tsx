@@ -9,7 +9,7 @@ const MainLogo = () => {
       onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=1113&aff_id=183864&source=Shein" } }, "*")}
     >
       <img 
-        src="https://i.imgur.com/lfmzARL.png" 
+        src="https://i.imgur.com/b8bRx6S.png" 
         alt="Shein Logo" 
         className="h-10 sm:h-15 w-20 object-contain transition-all duration-700 hover:brightness-120"
       />
